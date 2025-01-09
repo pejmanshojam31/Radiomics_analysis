@@ -5,7 +5,7 @@ Dear Peter,
 Here I created a repository for installing and running the code. I put the instructions step by step:
 This software allows you to process, visualize, and analyze radiomics datasets without programming knowledge.
 
-## |System Requirements
+## System Requirements
 **Operating System**: Windows, macOS, or Linux
 Python Version: 3.8 or later
 Required Libraries:

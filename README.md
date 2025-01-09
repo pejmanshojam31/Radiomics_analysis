@@ -60,6 +60,7 @@ python radiomics_analysis.py
 
 
 # How to Use the Software
+First make it full size
 ## Step 1: Load Your Data
 Click Browse to select a radiomics dataset (CSV file).
 Confirm successful data loading in the popup message.

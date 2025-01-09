@@ -71,7 +71,7 @@ Additional Features to Drop: Checkboxes appear if the dataset contains fields li
 Select a Metric for Analysis:
 Feature Importance: Rank features by their contribution to survival prediction.
 Mutual Information: Identify features most related to survival outcomes.
-Click Process Data.
+Click Process Data (*You need to click only once to the Process Data*) you can later change the metric.
 ## Step 4: Visualize Results
 **Show Results**: View a bar chart ranking features by importance or mutual information.
 **Show Scatter Plot**: Examine the relationship between the most significant feature and survival time, with a regression line and 

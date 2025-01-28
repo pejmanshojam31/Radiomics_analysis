@@ -1,7 +1,5 @@
 # Radiomics_visualization_Software
 
-Dear Peter,
-
 Here I created a repository for installing and running the code. I put the instructions step by step:
 This software allows you to process, visualize, and analyze radiomics datasets without programming knowledge.
 
